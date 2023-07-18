@@ -1,0 +1,20 @@
+*{
+    margin: 5px;
+    padding: 0px;
+}
+header{
+    color: white;
+    background-color: black;
+    text-align: right;
+}
+.BG{
+    background-image: url(b2.jpg);
+    position: relative;
+}
+p{
+    color: wheat;
+    font-size: larger;
+}
+ul{
+    background-color: aqua;
+}

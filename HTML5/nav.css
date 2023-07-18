@@ -1,0 +1,20 @@
+nav ul {
+    display: flex;
+    gap: 10px;
+    color: rgb(0, 0, 0);
+    
+}
+ul li{
+    list-style: none;
+   
+   
+}
+nav li:hover{
+    background-color: aqua;
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+    
+}

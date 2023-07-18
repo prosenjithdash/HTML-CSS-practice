@@ -1,0 +1,16 @@
+.Header{
+    background-color: aqua;
+}
+.p{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+}
+ol{
+    color: blue;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(138, 240, 6);
+}

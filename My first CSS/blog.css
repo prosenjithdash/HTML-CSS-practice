@@ -1,0 +1,20 @@
+h3{
+    font-size: 40px;
+    text-decoration: overline;
+}
+.blog{
+    margin: 50px;
+    border: 20px solid yellow;
+    box-shadow: 10px 20px 10px red;
+}
+.second{
+    display: none;
+}
+.third{
+    visibility: hidden;
+}
+.bg{
+    height: 400px;
+    background-image: url(blogi.png);
+    background-repeat: no-repeat;
+}

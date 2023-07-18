@@ -1,0 +1,29 @@
+*{
+    margin: 10px;
+    padding: 0;
+   
+}
+#F{
+    font-size: medium;
+    color: white;
+    border: 50px rgb(231, 11, 11) ;
+    text-align: right;
+    border-radius: 5px;
+    background-color: black;
+    padding: 10px;
+}
+.pa{
+    border: 5px solid red;
+    border-radius: 5px;
+    margin: 20px;
+    box-shadow: 20px 10px 5px rgb(76, 0, 255);
+}
+ul{
+    border: 5px solid black;
+    box-shadow: 20px 10px 5px yellow;
+}
+ol{
+    border: 3px solid yellowgreen;
+    padding: 5px;
+    box-shadow: 20px 10px 5px rgb(240, 3, 3);
+}
